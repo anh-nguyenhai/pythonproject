@@ -25,3 +25,7 @@ Phía trên cùng , người dùng có 2 tùy chọn là mã hóa bằng AES + R
 Output folder : chứa ảnh đầu ra đã được mã hóa.
 Public key : Khóa dùng để mã hóa.
 Img file : ảnh chứa thông tin được ẩn
+
+Hình ảnh mã hóa dữ liệu :
+
+![image](https://user-images.githubusercontent.com/64057572/125716886-d5df90cc-068b-46ba-8126-a76ead131312.png)
