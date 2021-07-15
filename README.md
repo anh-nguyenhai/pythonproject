@@ -36,3 +36,7 @@ Giao diện giải mã :
 
 Người muốn nhận thôn tin nhận được file hình ảnh chứa thông tin ẩn và private key từ người mã hóa.
 
+Người dùng có thể tự tạo một key cho bản thân, hoặc có thể tạo ngẫu nhiên từ app. Key tạo từ app có 4 độ dài : 2048, 3072 , 4096 , 8172 (bit)
+![image](https://user-images.githubusercontent.com/64057572/125717267-b765cfd9-9d4e-486a-98f3-8bd83652a45b.png)
+Key được tạo sẽ được lưu vào folder keys để tiện cho quá trình lưu trữ
+
