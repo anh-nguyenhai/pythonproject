@@ -29,3 +29,10 @@ Img file : ảnh chứa thông tin được ẩn
 Hình ảnh mã hóa dữ liệu :
 
 ![image](https://user-images.githubusercontent.com/64057572/125716886-d5df90cc-068b-46ba-8126-a76ead131312.png)
+
+
+Giao diện giải mã :
+![image](https://user-images.githubusercontent.com/64057572/125717123-d32a4d26-f9b6-4bfe-951d-25e1b7fad83e.png)
+
+Người muốn nhận thôn tin nhận được file hình ảnh chứa thông tin ẩn và private key từ người mã hóa.
+
