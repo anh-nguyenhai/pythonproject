@@ -40,3 +40,9 @@ Người dùng có thể tự tạo một key cho bản thân, hoặc có thể 
 ![image](https://user-images.githubusercontent.com/64057572/125717267-b765cfd9-9d4e-486a-98f3-8bd83652a45b.png)
 Key được tạo sẽ được lưu vào folder keys để tiện cho quá trình lưu trữ
 
+![encrypted](https://user-images.githubusercontent.com/64057572/125717517-21e09f77-09f2-494e-8a47-a106a94589db.png)
+
+![encrypted](https://user-images.githubusercontent.com/64057572/125717517-21e09f77-09f2-494e-8a47-a106a94589db.png)
+
+Hình trên là hình ảnh gốc ban đầu chưa có thông tin. Hình ảnh bên dưới là hình ảnh đã chứa thông tin được mã hóa. Bằng mắt thường hầu như không có khác biệt giữa 2 hình
+
