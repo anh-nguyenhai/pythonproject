@@ -16,3 +16,12 @@ Nó có 1920*1080 = 2,073,600 pixels
 691,200 / 1024 = 675 KB
 Vậy một ảnh có độ phân giải 1920*1080 có thể chứa tối đa 675 KB dữ liệu.
 
+# Một số hình ảnh của ứng dụng:
+Giao diện của phần mã hóa :
+
+![image](https://user-images.githubusercontent.com/64057572/125715941-ba17f8b1-e1fa-411d-b325-9c4b4d85dfac.png)
+
+Phía trên cùng , người dùng có 2 tùy chọn là mã hóa bằng AES + RSA hoặc RSA.
+Output folder : chứa ảnh đầu ra đã được mã hóa.
+Public key : Khóa dùng để mã hóa.
+Img file : ảnh chứa thông tin được ẩn
